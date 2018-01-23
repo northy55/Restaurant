@@ -1,0 +1,4 @@
+Menu name: Italian
+- Macaroni: 20$ 
+- Sphagetti: 14$ 
+- Lazagna: 28$ 
